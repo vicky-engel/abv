@@ -1,0 +1,24 @@
+{
+  "name": "abv",
+  "version": "1.0.0",
+  "description": "abv Projekt Reiseblog Ein Tag in...",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel Blog.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicky-engel/abv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicky-engel/abv/issues"
+  },
+  "homepage": "https://github.com/vicky-engel/abv#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.9.3"
+  }
+}
