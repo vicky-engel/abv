@@ -160,11 +160,11 @@ a:hover {
 }
 
 .top-articles:nth-child(2n+1) > .section{
-  transform: translate(-64px, 0);
+  transform: translate(64px, 0);
 }
 
 .top-articles:nth-child(2n) > .section {
-  transform: translate(64px, 0);
+  transform: translate(-64px, 0);
 }
 
 .section-icon {
