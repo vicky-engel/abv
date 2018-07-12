@@ -104,3 +104,28 @@
   width: 64px;
   margin: 24px;
 }
+
+.action {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.action > p {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  margin: 10px;
+  text-align: center;
+}
+
+.button {
+  --mdc-theme-primary: #4C9277;
+  height: 40px;
+  width: auto;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  margin-top: 10px;
+}
